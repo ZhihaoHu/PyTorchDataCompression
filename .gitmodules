@@ -1,0 +1,6 @@
+[submodule "PyTorchVideoCompression"]
+	path = PyTorchVideoCompression
+	url = https://github.com/ZhihaoHu/PyTorchVideoCompression.git
+[submodule "PyTorchImageCompression"]
+	path = PyTorchImageCompression
+	url = https://github.com/liujiaheng/compression.git
